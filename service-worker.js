@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kunal-mehta/stocks-dashboard/precache-manifest.fed0b5eb63fdc318a3c4243eddf562cc.js"
+  "/stocks-dashboard/precache-manifest.fd62ae38aad9dab18ba23ea6a9c3dcbd.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/kunal-mehta/stocks-dashboard/index.html", {
+workbox.routing.registerNavigationRoute("/stocks-dashboard/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

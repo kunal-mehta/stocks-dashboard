@@ -1,13 +1,13 @@
 {
-  "main.css": "/kunal-mehta/stocks-dashboard/static/css/main.347b1211.chunk.css",
-  "main.js": "/kunal-mehta/stocks-dashboard/static/js/main.3d19e6f3.chunk.js",
-  "main.js.map": "/kunal-mehta/stocks-dashboard/static/js/main.3d19e6f3.chunk.js.map",
-  "static/js/1.d854135a.chunk.js": "/kunal-mehta/stocks-dashboard/static/js/1.d854135a.chunk.js",
-  "static/js/1.d854135a.chunk.js.map": "/kunal-mehta/stocks-dashboard/static/js/1.d854135a.chunk.js.map",
-  "runtime~main.js": "/kunal-mehta/stocks-dashboard/static/js/runtime~main.313984eb.js",
-  "runtime~main.js.map": "/kunal-mehta/stocks-dashboard/static/js/runtime~main.313984eb.js.map",
-  "static/css/main.347b1211.chunk.css.map": "/kunal-mehta/stocks-dashboard/static/css/main.347b1211.chunk.css.map",
-  "index.html": "/kunal-mehta/stocks-dashboard/index.html",
-  "precache-manifest.fed0b5eb63fdc318a3c4243eddf562cc.js": "/kunal-mehta/stocks-dashboard/precache-manifest.fed0b5eb63fdc318a3c4243eddf562cc.js",
-  "service-worker.js": "/kunal-mehta/stocks-dashboard/service-worker.js"
+  "main.css": "/stocks-dashboard/static/css/main.347b1211.chunk.css",
+  "main.js": "/stocks-dashboard/static/js/main.e046509b.chunk.js",
+  "main.js.map": "/stocks-dashboard/static/js/main.e046509b.chunk.js.map",
+  "static/js/1.b2f62db5.chunk.js": "/stocks-dashboard/static/js/1.b2f62db5.chunk.js",
+  "static/js/1.b2f62db5.chunk.js.map": "/stocks-dashboard/static/js/1.b2f62db5.chunk.js.map",
+  "runtime~main.js": "/stocks-dashboard/static/js/runtime~main.0be1c8e2.js",
+  "runtime~main.js.map": "/stocks-dashboard/static/js/runtime~main.0be1c8e2.js.map",
+  "static/css/main.347b1211.chunk.css.map": "/stocks-dashboard/static/css/main.347b1211.chunk.css.map",
+  "index.html": "/stocks-dashboard/index.html",
+  "precache-manifest.fd62ae38aad9dab18ba23ea6a9c3dcbd.js": "/stocks-dashboard/precache-manifest.fd62ae38aad9dab18ba23ea6a9c3dcbd.js",
+  "service-worker.js": "/stocks-dashboard/service-worker.js"
 }
